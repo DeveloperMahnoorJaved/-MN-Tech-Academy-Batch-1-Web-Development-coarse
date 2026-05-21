@@ -1,0 +1,53 @@
+/* body{
+font-family: Arial, sans-serif;
+background:#f3f3f3;
+padding:40px;
+}
+
+
+h1{
+text-align:center;
+margin-bottom:40px;
+}
+
+
+.card{
+width:300px;
+margin:20px auto;
+padding:20px;
+background:white;
+font-size:18px;
+line-height:30px;
+
+
+border:20px solid transparent;
+}
+
+
+.card1{
+border-image:url("https://www.w3schools.com/css/border.png") 30 stretch;
+}
+
+
+.card2{
+border-image:url("https://www.w3schools.com/css/border.png") 30 round;
+}
+
+div{
+    height:300px;
+width: 300px;
+color: tomato;
+background-color: blueviolet;
+margin-top: 30px;
+padding: 50px;
+text-align: center;
+}
+
+p.two {
+overflow: hidden;
+}
+h2{
+    background-color: red;
+} */
+
+

@@ -1,0 +1,37 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+     font-family: "Open Sans", sans-serif;
+     font-size: 30px;
+     font-weight: bolder;
+     font-style: oblique;
+
+}
+p{
+    text-transform: lowercase;
+    text-decoration: blink;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-align: left;
+    text-indent: 30px;
+    background-color: #000000;
+color: #666666;
+text-shadow: 1px 1px 3px #af6565;}
+p:first-letter {
+    font-size: 100px;
+    color: aqua;
+}
+p:first-line{
+    font-size: 50px;
+    color: white;
+}
+
+a:link{
+color: black;
+} 
+button:focus{
+    background-color: chartreuse;
+    color: blanchedalmond;
+}
+#id
