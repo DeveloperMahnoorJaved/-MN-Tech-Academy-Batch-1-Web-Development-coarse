@@ -1,0 +1,36 @@
+td {
+background-color: #0088dd;
+padding: 15px;
+border: 2px solid #000000;
+}
+table.one {
+ 
+empty-cells: show;
+border-collapse: separate;
+}
+
+input{
+    background-color:rgba(127, 255, 212, 0.532);
+    color:black;
+    padding:13px;
+    border: 3px solid #ffffff;
+    margin:20px;
+}
+ol{
+list-style: circle outside;
+
+}
+button{
+    color:white;
+    background-color:rgb(191, 187, 219);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:5px;
+border: solid rgb(206, 175, 175);
+border-width: 2px;
+cursor: help;
+}
+fieldset{
+    border-color: #0088dd;
+    border-radius:20px;
+    display: flex;
+}
