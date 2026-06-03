@@ -1,0 +1,16 @@
+body {
+width: 750px;
+font-family: Arial, Verdana, sans-serif;
+color: #665544;}
+h1 {
+   z-index: 2;
+background-color: #efefef;
+padding: 10px;
+float:right;
+clear:both;
+}
+p {
+    position:relative;
+    top: 20px;
+    left:30px;
+width: 450px;}
