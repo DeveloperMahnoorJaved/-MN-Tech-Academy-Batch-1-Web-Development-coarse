@@ -1,0 +1,12 @@
+
+body{
+    background-image:url(car.jpeg);
+  background-repeat:no-repeat;
+  background-size:cover;
+background-position:center;
+height:100px;
+width:100px;
+background-attachment:fixed;
+background: linear-gradient(#333444, #333888);
+float:left;
+}
