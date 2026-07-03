@@ -6,3 +6,15 @@ color: blueviolet;
 h1{
    font-family: "Open Sans", sans-serif;
 }
+ 
+
+
+@media screen and (max-width:390px){
+   body{
+      background-color:black;
+      color:azure;
+   }
+   h1{
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+}

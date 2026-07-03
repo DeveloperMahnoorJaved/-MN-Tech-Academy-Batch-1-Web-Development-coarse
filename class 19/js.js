@@ -1,14 +1,14 @@
 // -----------------OPERATORS--------------------
-let a = 10;
-let b = 5;
+var a = 10;
+var b = 5;
 console.log(a + b);
 
 let num1 = 25;
 let num2 = 26;
-console.log(num1 + num2);
+console.log(num1 * num2);
 
 let num3 = 3;
-let num4 = 1;
+let num4 = 10;
 console.log(num3 ** num4);
 
 console.log(10 % 3);
